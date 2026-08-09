@@ -52,8 +52,8 @@ It documents my progress in learning how algorithms are designed, analyzed, and 
 
 | Laboratory | Progress       |
 | ---------- | -------------- |
-| Lab 01     | ✅ Completed    |
-| Lab 02     | 🔄 Coming Soon |
+| Lab 01     | ✅ Completed   |
+| Lab 02     | ✅ Completed   |
 | Lab 03     | 🔄 Coming Soon |
 | Lab 04     | 🔄 Coming Soon |
 | Lab 05     | 🔄 Coming Soon |
