@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Design & Analysis of Algorithms
+#Design & Analysis of Algorithms
 
 ### *"Building Efficient Solutions, One Algorithm at a Time."*
 
